@@ -1,2 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://lc12031203.github.io/cai</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://lc12031203.github.io/cai</link></image><lastBuildDate>Wed, 10 Apr 2024 03:37:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://lc12031203.github.io/cai</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://lc12031203.github.io/cai</link></image><lastBuildDate>Wed, 10 Apr 2024 16:35:00 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>22</title><link>https://lc12031203.github.io/cai/post/22.html</link><description>22222。</description><guid isPermaLink="true">https://lc12031203.github.io/cai/post/22.html</guid><pubDate>Wed, 10 Apr 2024 04:00:27 +0000</pubDate></item><item><title>第一次写博客</title><link>https://lc12031203.github.io/cai/post/di-yi-ci-xie-bo-ke.html</link><description># 第一段标题名66&#13;
+第一段内容&#13;
+## 第二段标题名66&#13;
+第二段内容&#13;
+![4a3df136c00d1561c489ad7eb67994d6faed35a8](https://github.com/lc12031203/cai/assets/166578409/71c9af39-3879-4627-8307-e3f75e7f4b22)&#13;
+&#13;
+Uploading 下载.mp4…&#13;
+&#13;
+&#13;
+Uploading IMG_7687.MP4…&#13;
+[谷歌](https://www.google.co.th/)&#13;
+&#13;
+。</description><guid isPermaLink="true">https://lc12031203.github.io/cai/post/di-yi-ci-xie-bo-ke.html</guid><pubDate>Wed, 10 Apr 2024 03:36:59 +0000</pubDate></item></channel></rss>
